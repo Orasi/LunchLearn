@@ -7,7 +7,7 @@ class WelcomeController < ApplicationController
 	if @User.save
 		session[:current_user_id] = @User.id
 		Session.create(session_id: session[:session_id])
-		redirect_to :calendar
+                  redirect_to :calendar
     	else
 		redirect_to :login
 		#TODO: User Validation error reporting
