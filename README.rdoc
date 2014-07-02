@@ -1,4 +1,7 @@
-== README
+== Lunch and Learn app
+{<img src="https://travis-ci.org/Orasi/blue-source.svg?branch=simplecov-integration" alt="Build Status" />}[https://travis-ci.org/Orasi/blue-source]
+{<img src="https://coveralls.io/repos/Orasi/LunchLearn/badge.png" alt="Coverage Status" />}[https://coveralls.io/r/Orasi/LunchLearn]
+
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
