@@ -56,3 +56,9 @@ gem 'pry', group: [:development, :test]
 
 # Use haml
 gem 'haml-rails'
+
+# Simplecov for test coverage
+gem 'simplecov', require: false, group: :test
+
+# Coveralls for test coverage as well.
+gem 'coveralls', require: false
